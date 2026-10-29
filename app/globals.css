@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 :root {
+  /* Fonts — loaded from Google Fonts in app/layout.tsx */
+  --font-heading: "Sora";
+  --font-body: "Inter";
+  --font-mono: "JetBrains Mono";
+
   /* Backgrounds — dark is the default look */
   --bg-primary: #0a0e14;
   --bg-secondary: #10141c;
